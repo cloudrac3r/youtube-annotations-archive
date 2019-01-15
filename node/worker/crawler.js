@@ -366,8 +366,8 @@ function submitAndCrawl(data) {
 
 	function submit(target, data) {
 		let chunks = [];
-		for (var i = 0; i < data.length; i += 25000) {
-			chunks.push(data.slice(i, i + 25000));
+		for (var i = 0; i < data.length; i += 5000) {
+			chunks.push(data.slice(i, i + 5000));
 		}
 		let completedChunks = 0;
 		return Promise.all(chunks.map(chunk =>

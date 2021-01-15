@@ -1,3 +1,11 @@
+# Results of the archive project
+
+Summary: Official annotations were removed, about 1.4 billion videos were archived, data has been uploaded to the Internet Archive, and Invidious can display the archived annotations.
+
+**Please see here: https://old.reddit.com/r/DataHoarder/comments/aa6czg/youtube_annotation_archive/**
+
+---
+
 **For cloudrac3r's work, see [README.md](https://github.com/omarroth/archive/blob/master/node/README.md) in the `node` folder.**
 
 ---
